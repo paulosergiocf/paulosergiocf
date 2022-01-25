@@ -38,8 +38,8 @@
   
   <p>Se quiser bater um papo, colaborar ou precisar de uma força em algum projeto por favor entre em contato.</p>
 
-  <a href="malito:paulosergiocf.dev@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="malito:paulosergiocf@protonmail.com"><img height="30em" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+  <a href="mailto:paulosergiocf.dev@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:paulosergiocf@protonmail.com"><img height="30em" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
   <a href="https://web.whatsapp.com/send?phone=+5515998462920"><img height="30em" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://www.duolingo.com/profile/PauloSergiocf"><img height="30em" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/></a>
   <a href="https://www.instagram.com/pauloser.flc.d/"><img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
