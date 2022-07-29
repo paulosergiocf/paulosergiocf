@@ -3,9 +3,8 @@
 <h3>Seja bem vindo!</h3>
 
 <div style="display: inline_block">
-    <img align="right"alt="Logo"  width="300" src="imagens/logo.svg">
-    <p>Me chamo Paulo, tenho 27 anos e sou estudante de analise e desenvolvimento de sistemas.</p>
-    <p>Gosto de me dedicar ao estudo da linguagem python, mas procuro separar um tempo para me dedicar a outras liguagens tambem.</p>
+    <img align="right"alt="Logo"  width="300" src="https://user-images.githubusercontent.com/49497668/181762968-ef8ee659-4698-4dc7-b99f-08b69f1925c3.svg">
+    <p>Ola, que bom te ver por aqui!.</p>
     <p>Espero que algo por aqui possa te ajudar</p>
 
 </div>
@@ -40,9 +39,7 @@
 
   <a href="mailto:paulosergiocf.dev@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="mailto:paulosergiocf@protonmail.com"><img height="30em" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-  <a href="https://web.whatsapp.com/send?phone=+5515998462920"><img height="30em" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://www.duolingo.com/profile/PauloSergiocf"><img height="30em" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/></a>
-  <a href="https://www.instagram.com/pauloser.flc.d/"><img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/pauloseriocf/"><img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
