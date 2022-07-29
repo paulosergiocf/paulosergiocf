@@ -3,7 +3,7 @@
 <h3>Seja bem vindo!</h3>
 
 <div style="display: inline_block">
-    <img align="right"alt="Logo"  width="300" src="https://user-images.githubusercontent.com/49497668/181762968-ef8ee659-4698-4dc7-b99f-08b69f1925c3.svg">
+    <img align="right"alt="Logo"  width="500" src="https://user-images.githubusercontent.com/49497668/181762968-ef8ee659-4698-4dc7-b99f-08b69f1925c3.svg">
     <p>Ola, que bom te ver por aqui!.</p>
     <p>Espero que algo por aqui possa te ajudar</p>
 
