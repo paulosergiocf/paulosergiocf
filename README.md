@@ -1,24 +1,9 @@
-### Olá! 
-
-<h3>Seja bem vindo!</h3>
+# Olá! 
+### Seja bem vindo!</h3>
 
 <div style="display: inline_block">
-    <img align="right"alt="Logo"  width="500" src="https://user-images.githubusercontent.com/49497668/181762968-ef8ee659-4698-4dc7-b99f-08b69f1925c3.svg">
-    <p>Ola, que bom te ver por aqui!.</p>
-    <p>Espero que algo por aqui possa te ajudar</p>
-
-</div>
-
-<hr>
-
-<div style="display: inline_block"><br>
-  
-  <img height="30em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img height="30em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img height="30em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img height="30em" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  <img height="30em" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
+    <img align="right"alt="Logo"  width="200" src="https://raw.githubusercontent.com/paulosergiocf/paulosergiocf/73d587481eedb9378f9818ea191a838853db734f/imagens/logo.svg">
+    
 </div>
 
 
@@ -26,7 +11,6 @@
 
 <div align="left">
   <a href="https://github.com/paulosergiocf">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=paulosergiocf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosergiocf&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
