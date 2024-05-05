@@ -7,7 +7,7 @@ Tenho 29 anos e sou formado em **Análise e Desenvolvimento de Sistemas**.
 
 📇 Atualmente atuo com desenvolvedor java na área de BFSI, apesar disso por aqui vai encontrar muito python que é a linguagem a qual costumo empregar em meus projetos pessoais.
 
-🗓️ Tenho buscado fortalecer meus conhecimentos e arquitetura, testes e CI. 
+🗓️ Tenho buscado fortalecer meus conhecimentos em arquitetura, testes e CI. 
 
 ##
 
